@@ -77,10 +77,10 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mowies" alt="mowies' github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mowies&layout=compact" alt="mowies' top used languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mowies&theme=dracula" alt="mowies' github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mowies&layout=compact&theme=dracula" alt="mowies' top used languages"/>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=mowies&theme=github" alt="mowies' contribution graph"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=mowies&theme=dracula" alt="mowies' contribution graph"/>
 </p>
