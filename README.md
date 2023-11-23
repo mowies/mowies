@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps engineer from Austria</h3>
 
 - :telescope: I’m currently working on [the keptn project](https://keptn.sh/)
-- :office: DevOps Engineer at [Dynatrace](https://www.dynatrace.com/)
+- :office: Senior DevOps Engineer at [Dynatrace](https://www.dynatrace.com/)
 - :heart:  Kubernetes, Docker, AWS, Azure, TypeScript, NodeJS, NestJS
 - :seedling: I'm currently learning Golang
 
