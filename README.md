@@ -84,3 +84,5 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=mowies&theme=dracula" alt="mowies' contribution graph"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=mowies)
