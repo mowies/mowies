@@ -2,10 +2,9 @@
 
 <h3 align="center">A passionate DevOps engineer from Austria</h3>
 
-- :telescope: I’m currently working on [the keptn project](https://keptn.sh/)
+- :telescope: I’m currently working on [the OpenTelemetry Collector project](https://github.com/open-telemetry/opentelemetry-collector)
 - :office: Senior DevOps Engineer at [Dynatrace](https://www.dynatrace.com/)
-- :heart:  Kubernetes, Docker, AWS, Azure, TypeScript, NodeJS, NestJS
-- :seedling: I'm currently learning Golang
+- :heart:  Kubernetes, Docker, AWS, Azure, Go, TypeScript, NodeJS, NestJS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
